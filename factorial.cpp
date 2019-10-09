@@ -45,7 +45,7 @@ main() {
 
     while (j >= 0) {
       cout << A[j];
-      j = j -1;
+      j = j - 1;
     } //end of second while loop                                                                                                                                                                                   
     cout << endl;
 
